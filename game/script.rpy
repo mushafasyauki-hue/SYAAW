@@ -3,7 +3,7 @@
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
 
-define e = Character("Eileen")
+define e = Character("akmal")
 
 image a1:
     "images/tbase_01.png"
@@ -16,13 +16,15 @@ label start:
 
     scene bg swamp
     
+    with fade
+    
     show a1
     
     # These display lines of dialogue.
 
-    e "You've created a new Ren'Py game."
+    e "HAIII BRODIII."
 
-    e "Once you add a story, pictures, and music, you can release it to the world!"
+    e "Are you ready to play this game?"
 
     # This ends the game.
 
