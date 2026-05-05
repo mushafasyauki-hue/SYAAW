@@ -31,6 +31,8 @@ label start:
 
     k "Are you ready to play this game?"
 
+    k "Bodo amat"
+
     hide k1
 
     show a2
