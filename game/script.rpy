@@ -3,7 +3,9 @@
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
 
-define e = Character("akmal")
+define k = Character("Kreswara Redyana")
+
+define a = Character("AS-LEEN")
 
 image a1:
     "images/tbase_01.png"
@@ -22,9 +24,9 @@ label start:
     
     # These display lines of dialogue.
 
-    e "HAIII BRODIII."
+    k "HAIII BRODIII."
 
-    e "Are you ready to play this game?"
+    k "Are you ready to play this game?"
 
     # This ends the game.
 
