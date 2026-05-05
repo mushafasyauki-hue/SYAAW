@@ -31,8 +31,6 @@ label start:
 
     k "Are you ready to play this game?"
 
-    k "Bodo amat"
-
     hide k1
 
     show a2
@@ -41,10 +39,10 @@ label start:
         "Pilih jawaban kamu:"
 
         "Ya":
-            a "Mantap! Kita mulai petualangannya!"
+            a "Vamos"
 
         "Tidak":
-            a "Yahh, sayang banget. Mungkin lain kali ya."
+            a "Sayang Sekali."
 
     stop music fadeout 1.0
 
