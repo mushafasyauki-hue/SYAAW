@@ -39,7 +39,7 @@ label start:
         "Pilih jawaban kamu:"
 
         "Ya":
-            a "Vamos"
+            a "Lets go ma fren"
 
         "Tidak":
             a "Yahhh Sayang Sekali. Aku kecewa bingit"
