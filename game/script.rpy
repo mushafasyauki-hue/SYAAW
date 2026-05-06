@@ -39,10 +39,10 @@ label start:
         "Pilih jawaban kamu:"
 
         "Ya":
-            a "Mantap! Kita mulai petualangannya!"
+            a "Vamos"
 
         "Tidak":
-            a "Yahh, sayang banget. Mungkin lain kali ya."
+            a "Yahhh Sayang Sekali."
 
     stop music fadeout 1.0
 
