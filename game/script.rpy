@@ -42,7 +42,7 @@ label start:
             a "Vamos"
 
         "Tidak":
-            a "Sayang Sekali."
+            a "Yahhh Sayang Sekali."
 
     stop music fadeout 1.0
 
