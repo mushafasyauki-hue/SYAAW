@@ -36,7 +36,7 @@ label start:
     show a2
 
     menu:
-        "Pilih jawaban kamu:"
+        "Pilih jawaban qamu:"
 
         "Ya":
             a "Lets go frend"
